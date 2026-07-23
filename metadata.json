@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI",
+  "description": "An AI-powered study assistant that generates summaries, 5 MCQs, and simplified vocabulary explanations from study notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
