@@ -1,7 +1,9 @@
 # StudyMate AI 🎓✨
-
 StudyMate AI is a modern AI-powered study assistant built to help students comprehend long lecture notes, generate practice MCQs, and decode difficult technical vocabulary in simple English.
-
+## Problem
+Students often struggle to understand lengthy lecture notes and prepare for exams quickly. StudyMate AI solves this problem by converting notes into simple summaries, quizzes, and vocabulary explanations using AI.
+## Live Demo
+https://studymate-ai-rayyan.vercel.app
 ## Features 🚀
 - 📄 **Instant Notes Summarization**: Synthesizes lengthy notes into structured key takeaways and bullet points.
 - 🎯 **5-Question MCQ Quiz Generator**: Creates multiple choice questions with answer keys and explanations for practice.
